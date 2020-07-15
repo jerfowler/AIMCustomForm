@@ -1,0 +1,10 @@
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\bin\Debug\AIMCustomForm.pdb
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.Form1.resources
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.Properties.Resources.resources
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.csproj.GenerateResource.cache
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.pdb
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\bin\Debug\AIMCustomForm.dll.config
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\bin\Debug\AIMCustomForm.dll
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.dll
+C:\Users\Jeremy.Fowler\Projects\jerfowler\AIMCustomForm\AIMCustomForm\AIMCustomForm\obj\Debug\AIMCustomForm.csprojAssemblyReference.cache
